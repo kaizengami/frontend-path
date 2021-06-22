@@ -25,7 +25,7 @@
   * [funny course](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
   * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * push project live to the GitHub
-* create projects and push it to the GitHub Pages
+* create projects and push them to the GitHub Pages
   * multi page site ([eliminate food intolerance](https://99designs.ie/profiles/dreammaster/designs/1274603) or [book ](https://electricbookworks.com/images/presentation-boston-201801-multiformat-book-production-03.jpg))
   * *HTML5: Forms. Detailed task description is [here](https://github.com/kottans/frontend/blob/master/tasks/html5-forms.md). Also, full implamentation can be found [here](https://kaizengami.github.io/HTML5-Forms/dist/), but try to make it by yourself first.
 
