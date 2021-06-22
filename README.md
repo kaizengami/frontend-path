@@ -1,4 +1,4 @@
-#### frontend path
+#### frontend
 
 # Stage 1
 
