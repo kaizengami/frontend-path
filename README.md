@@ -2,7 +2,7 @@
 
 # Stage 1
 
-1. Learn HTML / CSS basics
+### 1. Learn HTML / CSS basics
 
 * install IDE (VS code, IntelliJ)
   * [Visual Studio Code - Download](https://code.visualstudio.com/)
@@ -20,6 +20,7 @@
 > ##### [CSS Animation in 100 Seconds](https://youtu.be/HZHHBwzmJLk)
 ---
 * create project
+  * Practice HTML/CSS elements ([form](https://photos.app.goo.gl/VFCMAL98ZvcdQoEL9), [search](https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2017/11/search-patterns-search-bars-advanced.png.webp), [menu with animation](https://freefrontend.com/assets/img/css-menu/menu-hover-underline.mp4), [advanced menu with animation](https://freefrontend.com/assets/img/css-menu/neumorphism-context-menu.mp4))
   * CV page ([exapmle 1](https://www.etsy.com/fr/listing/655092886/pages-cv-modele-ms-word-cv-modele-5-page?ref=landingpage_similar_listing_top-1&epik=dj0yJnU9NE1OSGdMMk5DTUhwLThMRkJWTGNVcjE1THQ5Z2s0blAmcD0wJm49QU9INGlOMlF6SFBjZFN1cXQyT3ZnQSZ0PUFBQUFBR0RTVDk4), [exapmle 2](https://www.canva.com/design/DADWhL3LzKE/remix?action2=create&mediaId=DADWhL3LzKE&signupReferrer=blog&utm_source=blog&utm_medium=content&utm_campaign=50-inspiring-resume-designs&_branch_match_id=935987397243753885), [exapmle 3](https://www.canva.com/design/DADWhEjITQ4/remix?action2=create&mediaId=DADWhEjITQ4&signupReferrer=blog&utm_source=blog&utm_medium=content&utm_campaign=50-inspiring-resume-designs&_branch_match_id=935987397243753885), [exapmle 4](https://www.dropbox.com/s/r1lrtubf2bay28o/free%20resume.psd?dl=0), [exapmle 5](https://dribbble.com/shots/806188-Resume-CV/attachments/82434?mode=media)). Choose whichever you like or find your own design.
 * learn Git, GitHub basics
   * [funny course](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
@@ -31,6 +32,6 @@
 
 
 # Stage 2
-2. JavaScript basics
+### 2. JavaScript basics
 
 ...
